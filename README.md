@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishrut-b
-- 👀 I’m interested in data analysis, modelling, astrophysics, non-fiction books
-- 🌱 I’m currently doing my master's in Astrophysics 
+- 👀 I like playing around with data, modelling, astrophysics and reading non-fiction books
+- 🌱 I’m a master's graduate in Astrophysics. 
 - 📫 How to reach me : vishrutbezbarua@gmail.com
 
 <!---
