@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishrut-b
 - 👀 I like playing around with data, modelling, astrophysics and reading non-fiction books
-- 🌱 I’m a master's graduate in Astrophysics. 
+- 🌱 I’m a master's graduate in Astrophysics and Data Science (University of Strasbourg). 
 - 📫 How to reach me : vishrutbezbarua@gmail.com
 
 <!---
